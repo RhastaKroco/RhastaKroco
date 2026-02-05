@@ -1,10 +1,6 @@
 # 👋 Halo, Saya Rhasta
 
-![Profile Banner](https://github.com/user-attachments/assets/ba2f3013-ce7c-4c3c-b1e4-6473da560312)
-
-*✨ Coding dengan semangat, membangun dengan tujuan*
-
-🧠 **Mahasiswa | Programmer | Pencinta Web Development**  
+🧠 **Siswa | Programmer | Pencinta Web Development**  
 💻 Fokus di **Web Development**, **Backend**, dan **Open Source**  
 🌙 Suka tampilan **dark theme**, UI minimalis, dan sistem yang rapi
 
