@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Rhasta
 
-![Profile Banner](https://github.com/user-attachments/assets/ba2f3013-ce7c-4c3c-b1e4-6473da560312)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba2f3013-ce7c-4c3c-b1e4-6473da560312" width="600" />
+</p>
 
 *✨ Coding with passion, building with purpose*
 
