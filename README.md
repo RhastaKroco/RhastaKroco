@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rhast
+# 👋 Hi, I'm Rhasta
 
 ![Profile Banner](https://github.com/user-attachments/assets/ba2f3013-ce7c-4c3c-b1e4-6473da560312)
 
