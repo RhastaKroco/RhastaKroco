@@ -116,10 +116,7 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter)](https://twitter.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)](https://github.com/RhastaKroco)
 [![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail)](mailto:rhastakroco@gmail.com)
-
----
-*Last Updated: February 2024*
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-111?style=for-the-badge&logo=whatsapp)](https://wa.me/6283836033866)
