@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Rhasta
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ba2f3013-ce7c-4c3c-b1e4-6473da560312" width="600" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Rhasta;Web+%26+Backend+Developer+🚀;Dark+Theme+Enthusiast+🌙" alt="Typing SVG" />
+</div>
 
-*✨ Coding with passion, building with purpose*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba2f3013-ce7c-4c3c-b1e4-6473da560312" width="900"/>
+</p>
 
 🧠 **Student | Programmer | Web Developer Enthusiast**  
 💻 Fokus di **Web Development**, **Backend**, dan **Open Source**  
