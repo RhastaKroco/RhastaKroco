@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rhast
 
-![Profile Banner](https://image2url.com/r2/default/gifs/1770263651009-929f5019-ec6b-4e8d-ba78-bcdd0971cf44.gif)  
+![Profile Banner](https://image2url.com/r2/default/images/1770264594275-d4fd5b95-0bf2-4b68-992c-89a4ee6fe18e.jpg)  
 *✨ Coding with passion, building with purpose*
 
 🧠 **Student | Programmer | Web Developer Enthusiast**  
