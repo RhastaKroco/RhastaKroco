@@ -102,21 +102,12 @@
 - 📁 **File Upload System** with preview
 - 🧪 **Experimental Web Apps** for learning
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
-
----
-
 > *"Code is not just about syntax, it's about logic."*  
 > *"Every line of code is a step towards mastery."*
 
 ---
 
 ### 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter)](https://twitter.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)](https://github.com/RhastaKroco)
 [![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail)](mailto:rhastakroco@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-111?style=for-the-badge&logo=whatsapp)](https://wa.me/6283836033866)
