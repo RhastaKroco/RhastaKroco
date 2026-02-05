@@ -1,19 +1,8 @@
-<!-- Header Anime GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180"/>
-</p>
+# 👋 Hi, I'm Rhast
 
-<h1 align="center">👋 Hi, I'm Rhast</h1>
-
-<p align="center">
-  🧠 Student • 💻 Programmer • 🌙 Dark Theme Enjoyer  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="300"/>
-</p>
+🧠 **Student | Programmer | Web Developer Enthusiast**  
+💻 Fokus di **Web Development**, **Backend**, dan **Open Source**  
+🌙 Suka tampilan **dark theme**, UI minimalis, dan sistem yang rapi
 
 ---
 
@@ -21,11 +10,7 @@
 - 🔧 Ngoding pakai **Python (Flask)**, **HTML**, **CSS**, **JavaScript**
 - 🕸️ Pernah bikin **website forum**, sistem upload, profile user, dan auth
 - ⚙️ Tertarik sama **backend logic**, **security basic**, dan **web performance**
-- 🧪 Sering eksperimen sama project kecil buat belajar hal baru  
-
-<p>
-  <img align="right" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
-</p>
+- 🧪 Sering eksperimen sama project kecil buat belajar hal baru
 
 ---
 
@@ -51,10 +36,6 @@
 ![REST API](https://img.shields.io/badge/REST%20API-111?style=for-the-badge&logo=fastapi)
 ![Auth System](https://img.shields.io/badge/Auth%20System-111?style=for-the-badge&logo=auth0)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
-</p>
-
 ---
 
 ### 🗄️ Database & Storage
@@ -71,15 +52,20 @@
 
 ---
 
+### 🧰 Tools & Environment
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-111?style=for-the-badge&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![Termux](https://img.shields.io/badge/Termux-111?style=for-the-badge&logo=android)
+
+---
+
 ## 📌 Current Focus
 - 🔐 Login & Auth System
 - 📁 Upload & File Handling
 - 🧩 Clean UI + Dark Theme
-- 🧠 Improve logic & clean code  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
-</p>
+- 🧠 Improve logic & clean code
 
 ---
 
@@ -93,6 +79,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="220"/>
-</p>
+---
+
+> *"Code is not just about syntax, it's about logic."*
