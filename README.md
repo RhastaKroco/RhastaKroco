@@ -16,7 +16,7 @@
 
 ---
 
-<img src="[https://media1.tenor.com/m/jRy8JHfQUXwAAAAd/noi-komazawa.gif" width="300">
+<img src="https://media1.tenor.com/m/jRy8JHfQUXwAAAAd/noi-komazawa.gif" width="300">
 
 ## 🧠 Tentang Gue
 
