@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://tenor.com/mhiFsppgegy.gif" width="300" />
 
 ## 🧠 Tentang Gue
 
