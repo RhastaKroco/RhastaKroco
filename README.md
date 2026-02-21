@@ -40,7 +40,7 @@ class Rhasta:
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
 
@@ -92,8 +92,6 @@ class Rhasta:
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 <div align="center">
 
