@@ -145,5 +145,6 @@ class Rhasta:
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RhastaKroco&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
-
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00FF41,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
