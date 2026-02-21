@@ -40,7 +40,7 @@ class Rhasta:
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -96,14 +96,6 @@ class Rhasta:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RhastaKroco&bg_color=0d0d0d&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=false&border_color=00FF41" width="100%"/>
-
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhastaKroco&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RhastaKroco&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
