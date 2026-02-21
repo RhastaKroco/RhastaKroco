@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
+<img src="https://media1.tenor.com/m/jRy8JHfQUXwAAAAd/noi-komazawa.gif" width="300">
 
 # 👾 Rhasta — `<dev mode: ON />`
 
@@ -15,8 +15,6 @@
 </div>
 
 ---
-
-<img src="https://media1.tenor.com/m/jRy8JHfQUXwAAAAd/noi-komazawa.gif" width="300">
 
 ## 🧠 Tentang Gue
 
