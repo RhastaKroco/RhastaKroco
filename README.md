@@ -45,7 +45,11 @@ class Rhasta:
 me = Rhasta()
 me.say_hi()
 ```
+<br><br>
 
+<img src="https://count.getloli.com/get/@iota9star:mikan_flutter?theme=rule34"/>
+
+</td>
 - 🔧 Ngoding pakai **Python, JS, PHP, C++, TypeScript**
 - 🕸️ Udah bikin **forum website**, auth system, file upload, profile user
 - ⚙️ Demen sama **backend logic**, **security**, dan **web performance**
@@ -53,7 +57,7 @@ me.say_hi()
 - 🌙 Pecinta **dark theme** & UI minimalis yang rapi
 
 ---
-![counter](https://count.getloli.com/get/@iota9star:mikan_flutter?theme=rule34)
+
 ## 🛠️ Tech Stack
 
 <div align="center">
