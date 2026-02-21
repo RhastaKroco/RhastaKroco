@@ -53,7 +53,7 @@ me.say_hi()
 - 🌙 Pecinta **dark theme** & UI minimalis yang rapi
 
 ---
-
+![counter](https://count.getloli.com/get/@iota9star:mikan_flutter?theme=rule34)
 ## 🛠️ Tech Stack
 
 <div align="center">
