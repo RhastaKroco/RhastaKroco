@@ -23,13 +23,29 @@
 ```python
 class Rhasta:
     name       = "Rhasta"
-    role       = ["Siswa", "Programmer", "Web Dev"]
-    focus      = ["Backend", "Web Security", "Open Source"]
-    theme      = "dark"  # obviously
-    status     = "always_learning"
+    role       = "Student & Backend Developer"
+    location   = "Indonesia 🇮🇩"
+    theme      = "Dark (always 🌑)"
+    
+    languages  = ["Python", "JavaScript", "PHP", "C++", "TypeScript"]
+    frameworks = ["Flask", "Django", "Node.js", "Express", "React"]
+    databases  = ["MariaDB", "MySQL", "PostgreSQL", "MongoDB"]
+    tools      = ["Git", "Docker", "VS Code", "Linux", "Termux"]
+    
+    focus      = [
+        "Backend Logic & Architecture",
+        "Web Security Fundamentals",
+        "Clean UI + Dark Theme",
+        "Open Source Projects"
+    ]
+    
+    quote = "Every line of code is a step towards mastery."
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something epic 🚀")
 
-    def passion(self):
-        return "Code is not just syntax — it's logic."
+me = Rhasta()
+me.say_hi()
 ```
 
 - 🔧 Ngoding pakai **Python, JS, PHP, C++, TypeScript**
