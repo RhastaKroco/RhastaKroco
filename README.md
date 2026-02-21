@@ -145,7 +145,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+<img src="https://media1.tenor.com/m/okbctCOHdrsAAAAC/%E3%81%84%E3%82%8D%E3%81%AF-%E3%81%8B%E3%81%90%E3%82%84.gif" width="400"/>
 
 ### *"Code is not just about syntax, it's about logic."*
 ### *"Every line of code is a step towards mastery."*
