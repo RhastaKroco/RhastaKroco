@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" src="https://tenor.com/mhiFsppgegy.gif" width="300" />
+<img align="right" src="[https://tenor.com/mhiFsppgegy.gif](https://tenor.com/id/view/noi-komazawa-noi-komazawa-noikomazawa-komazawanoi-gif-10168208923510722940)" width="300" />
 
 ## 🧠 Tentang Gue
 
