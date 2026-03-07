@@ -24,7 +24,6 @@ class Rhasta:
     name       = "Rhasta"
     role       = "Student & Backend Developer"
     location   = "Indonesia 🇮🇩"
-    theme      = "Dark (always 🌑)"
     
     languages  = ["Python", "JavaScript", "PHP", "C++", "TypeScript"]
     frameworks = ["Flask", "Django", "Node.js", "Express", "React"]
