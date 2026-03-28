@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 Tentang Gue
+## 🧠 Tentang Rhasta
 
 ```python
 class Rhasta:
@@ -120,7 +120,7 @@ me.say_hi()
 
 | Project | Deskripsi | Stack |
 |--------|-----------|-------|
-| 🗂️ **Forum Website** | Platform diskusi dengan auth & upload | Flask + SQLite |
+| 🗂️ **Forum Website** | Platform diskusi dengan auth & upload | Flask + MySQL|
 | 🌙 **Dark Portfolio** | Portfolio minimalis dark theme | HTML/CSS/JS |
 | 🔐 **Auth System** | JWT + Session Management | Node.js + Express |
 | 📁 **File Upload System** | Upload dengan preview & storage | Python + Flask |
