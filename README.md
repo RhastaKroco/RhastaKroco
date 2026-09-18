@@ -20,14 +20,14 @@
 ```python
 class Rhasta:
     name       = "Rhasta"
-    role       = "Student & Backend Developer"
+    role       = "Backend Developer"
     location   = "Indonesia 🇮🇩"
     
     languages  = ["Python", "JavaScript", "PHP", "C++", "TypeScript"]
     frameworks = ["Flask", "Django", "Node.js", "Express", "React"]
     databases  = ["MariaDB", "MySQL", "PostgreSQL", "MongoDB"]
-    tools      = ["Git", "Docker", "VS Code", "Linux", "Termux"]
-    
+    tools      = ["Git", "Docker", "VS Code", "Linux"]
+ 
     focus      = [
         "Backend Logic & Architecture",
         "Web Security Fundamentals",
@@ -45,10 +45,8 @@ me.say_hi()
 ```
 
 - 🔧 Ngoding pakai **Python, JS, PHP, C++, TypeScript**
-- 🕸️ Udah bikin **forum website**, auth system, file upload, profile user
 - ⚙️ Demen sama **backend logic**, **security**, dan **web performance**
 - 🧪 Sering eksperimen project kecil buat ngerasain hal baru
-- 🌙 Pecinta **dark theme** & UI minimalis yang rapi
 
 ---
 
@@ -133,7 +131,7 @@ me.say_hi()
 ```
 🔐 Advanced Authentication & Authorization
 📁 Cloud Storage & File Management Systems  
-🧩 Clean UI + Dark Theme Implementation
+🧩 Clean UI
 🧠 Clean Code Architecture & Logic
 ⚡ Web Performance Optimization
 🔒 Application Security Best Practices
