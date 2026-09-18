@@ -3,7 +3,7 @@
 <img src="https://media1.tenor.com/m/jRy8JHfQUXwAAAAd/noi-komazawa.gif" width="300">
 
 # AkiyamaRhasta (アキヤマ・ラスタ)
-![:name](https://count.getloli.com/@:RhastaKroco))
+![:name](https://count.getloli.com/@:RhastaKroco)
 
 <br/>
 
