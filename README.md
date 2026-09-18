@@ -5,8 +5,6 @@
 # AkiyamaRhasta (アキヤマ・ラスタ)
 ![:name](https://count.getloli.com/@:RhastaKroco))
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Siswa+%7C+Programmer+%7C+Web+Dev+Enthusiast;Backend+Logic+%26+Clean+Code+Lover;Dark+Theme+%3E+Light+Theme+Always+%F0%9F%8C%99;Building+things+one+commit+at+a+time..." alt="Typing SVG" />
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-RhastaKroco-181717?style=for-the-badge&logo=github)](https://github.com/RhastaKroco)
