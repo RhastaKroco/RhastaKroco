@@ -101,15 +101,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RhastaKroco&bg_color=0d0d0d&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=false&border_color=00FF41" width="100%"/>
-</div>
-
----
-
 ## 🚀 Proyek Unggulan
 
 <div align="center">
