@@ -20,6 +20,7 @@
 ```python
 class Rhasta:
     name       = "Rhasta"
+    role       = "femboy"
     location   = "Indonesia 🇮🇩"
     
     languages  = ["Python", "JavaScript", "PHP", "C++", "TypeScript"]
