@@ -20,13 +20,12 @@
 ```python
 class Rhasta:
     name       = "Rhasta"
-    role       = "Backend Developer"
     location   = "Indonesia 🇮🇩"
     
     languages  = ["Python", "JavaScript", "PHP", "C++", "TypeScript"]
     frameworks = ["Flask", "Django", "Node.js", "Express", "React"]
-    databases  = ["MariaDB", "MySQL", "PostgreSQL", "MongoDB"]
-    tools      = ["Git", "Docker", "VS Code", "Linux"]
+    databases  = ["MariaDB", "MySQL", "MongoDB"]
+    tools      = ["Git", "VS Code", "Linux"]
  
     focus      = [
         "Backend Logic & Architecture",
